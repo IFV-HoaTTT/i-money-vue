@@ -10,6 +10,7 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
+    "firebase": "^10.4.0",
     "init": "^0.1.2",
     "vue": "^3.3.4",
     "vue-router": "4"

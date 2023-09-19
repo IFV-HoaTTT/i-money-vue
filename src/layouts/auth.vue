@@ -1,5 +1,5 @@
 <template>
-    <NavigationBrand></NavigationBrand>
+    <navigation-brand/>
     <slot />
 </template>
 
